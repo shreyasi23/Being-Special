@@ -6,4 +6,5 @@ In this project I have made a website called Being Special which is an NGO (not 
 2. About
 3. Donate
 4. Contact
+
 The main part of this project is the donate page, where I have done the payment gateway integration. The payment page and payment button is created using Razorpay.
