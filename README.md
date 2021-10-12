@@ -8,3 +8,4 @@ In this project I have made a website called Being Special which is an NGO (not 
 4. Contact
 
 The main part of this project is the donate page, where I have done the payment gateway integration. The payment page and payment button is created using Razorpay and background of all the pages of the website are designed using Canva.
+This Repository is Read-Only.
